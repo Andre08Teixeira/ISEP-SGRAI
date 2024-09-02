@@ -1,0 +1,23 @@
+KAHOOT 2
+1. "shading"
+2. do observador
+3. podemos ter menos vértices
+4. baça
+5. 6 imagens JPEG
+6. que tenham reflexões deles próprios
+7. a cor e a intensidade
+8. 0,0 e 1,1
+9. todos os vértices
+10. TextureLoader
+11. na direção horizontal (U)
+12. ter melhor qualidade
+13. é "modulada" pela cor
+14. é simples associar características de objetos do JavaScript
+15. picking
+16. é mais simples "controlar" o efeito
+17. tudo o que é renderizado
+18. uma textura
+19. EffectComposer
+20. RenderPass
+21. reflexões dinâmicas
+22. temos de criar equivalentes dos objetos Three.js no Ammo.js

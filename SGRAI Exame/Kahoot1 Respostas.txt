@@ -1,0 +1,21 @@
+KAHOOT 1
+1. Geometry + Material
+2. Canvas
+3. Ângulo
+4. Aparecem do mesmo tamanho
+5. 0,0,0
+6. uma vez, dentro de um intervalo de tempo adequado
+7. GPU
+8. todas as outras
+9. segmentos de recta unindo pares de pontos
+10. PlaneGeometry
+11. vértices
+12. vértices em sentido anti-horário
+13. Object3D.rotateX
+14. em geral na cena
+15. zonas 100% negras na imagem
+16. reconhecermos a área que a luz ilumina
+17. quais os objectos que geram e recebem sombras
+18. mais de 6 renderizações
+19. o valor mais pequeno mas que nos dê a qualidade desejada
+20. temos os materiais e texturas num ficheiro único
